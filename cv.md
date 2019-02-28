@@ -1,9 +1,11 @@
-#Anna Kiniova
+# Anna Kiniova
 
 ![My Photo](Anna_photo.jpg)
+
+## Contacts:
 **tel** +375 29 140 67 58 **e-mail** anna.kiniova@gmail.com
 
-##Motivation part:
+## Motivation part:
 I am an experienced *engineer* - developer of project documentation for low-current systems - nearly 10 years. This work is challenging and requires constant studying and that's the best part of it. 
 I have achieved high level of knowedge in my current job and it's high time I tried my hand in something new.
 Being open-minded and **eager to study** I can notice many talented people worthy be forwarded in IT community and that motivates to improve skills and discover new horizons. 
@@ -16,13 +18,13 @@ Programming skills: Turbo Pascal, Delphi 7.
 
 I'm a newcomer in front-end development and best parts of code are just to be developed.
 
-##Education:
+## Education:
 1. __*BSUIR*__ faculty of telecommunication systems - 2005- 2010
 1. __*MSLU*__ - 2010 - 2012
 1. Brocade, Ixia, Ruckus sales expert and technical support engineer courses - 2015
 1. Codeacademy HTML CSS - 2019
 
-##Level of English: 
+## Level of English: 
 **B2**
 * __*Cambridge FCE*__ - grade B (corresponds to B2) - 2010
 * Graduated from __*MSLU*__ retraining deparment in 2012 
