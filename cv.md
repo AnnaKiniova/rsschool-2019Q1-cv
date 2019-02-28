@@ -14,8 +14,8 @@ I am ready to spend a lot of personal time for increasing skills' level. Moreove
 As it is said:
 >	With its feet cuts through the path it follows.
 
-Programming skills: Turbo Pascal, Delphi 7.
-
+## Programming skills: 
+**Turbo Pascal, Delphi 7**
 I'm a newcomer in front-end development and best parts of code are just to be developed.
 
 ## Education:
