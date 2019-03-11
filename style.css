@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    background: linear-gradient(to bottom right, rgb(185, 241, 209), rgb(68, 163, 175));
+    padding: 20px;
+}
+
+
+
+section {
+    margin: 30px;
+    padding:20px;
+    
+} 
+
+.flex {
+    display: flex;
+    /* align-items: flex-start; */
+   
+           
+}
+
+.h1 {   
+    /* padding-left: 140px; */
+    border: solid 0px red;
+    width: 100%;
+    text-align: center;
+}
+
+.bor {
+    border: solid 1px red;
+}
+
+.flex-item div {
+    height: 40px;
+}
+.flex-row {
+    
+    margin-right: 50px;
+   
+}
+
+h1 {
+    display: inline-block;
+    
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(6, 98, 134);
+    line-height: 70px;
+}
+
+h1::before {
+    margin:30px;
+}
+
+
+.border {
+    border: 2px dotted rgb(6, 98, 134); 
+    border-radius: 10px;
+   } 
+
+
+img {
+    height: 250px;
+}
+
+p, div {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px; 
+}
+
+h2 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(6, 98, 134);
+    line-height: 50px;
+    text-align:  center;
+
+}
+
+.contacts {
+    
+    margin: 30px;
+}
+
+
+.flex-item {
+    margin-right: 30px;
+    align-self: right;
+   
+}
+
+.contacts span {
+    font-weight: bold;
+}
+
+  .motivation, .education {
+    
+    
+    
+} 
+
+.skills-bold {
+    font-weight: bold;
+    font-style:
+}
