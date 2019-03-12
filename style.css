@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    background: linear-gradient(to bottom right, rgb(239, 243, 203), rgb(202, 118, 69));
+    padding: 20px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px; 
+    line-height: 30px;
+}
+
+section {
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 14px 28px rgba(2, 12, 14, 0.25), 0 10px 10px rgba(1, 15, 13, 0.1);
+} 
+
+.flex {
+    display: flex;
+    flex-flow: row;
+    align-items: flex-start;     
+} 
+
+.general-flex {
+    display: flex;
+    flex-flow: row;
+    align-items: stretch;
+}
+
+.flex-right {
+    display: flex;
+    flex-flow: column;
+    align-items: stretch;
+}
+
+.general-info {
+    display: inline-block;
+    background: linear-gradient(to top left, rgb(239, 243, 203), rgb(209, 148, 113));
+    border: 3px solid rgb(209, 148, 113);
+    border-radius: 10px;
+}
+
+
+.motivation, .skills, .education, .english {
+    display: inline-block;
+    border: 3px solid rgb(209, 148, 113);
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    color: rgb(5, 76, 104);
+    line-height: 70px;
+}
+
+.flex-item div {
+    height: 40px;
+}
+
+
+.social {
+    display: inline-block;
+    
+}
+
+.icon {
+    
+    height: 35px;
+    border: 1px solid rgb(148, 183, 230);
+    background-color: rgb(60, 127, 172);
+    border-radius: 25%;
+}
+
+
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(5, 76, 104);
+    text-decoration:none;
+    font-weight: bold;
+}
+
+.photo {
+    text-align: center;
+}
+
+.photo img {
+    display: inline-block;
+    text-align: center;
+    width: 250px; 
+    border-radius: 30px;
+    border: 5px solid rgb(209, 148, 113);
+}
+
+.motivation p, .skills p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-indent: 1.7em;
+}
+
+p + p {
+    margin-top: 5px; 
+} 
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(5, 76, 104);
+    line-height: 50px;
+    text-align:  center;
+}
+
+.contacts {
+    margin: 30px;
+}
+
+
+.flex-item {
+    margin-right: 30px;
+    align-self: right;
+   
+}
+
+
+ul, ol {
+    margin-left: 15px;
+}
+
+li {
+    line-height: 30px;
+    margin-top: 5px; 
+} 
+
+.skills-bold {
+    font-weight: bold;
+    font-style:
+}
+
+.worthy-study, .achievements {
+    font-weight: 700;
+    font-style: italic;
+}
+
