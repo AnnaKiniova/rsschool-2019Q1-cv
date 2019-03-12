@@ -6,7 +6,7 @@
 .container {
     max-width: 1024px;
     margin: 0 auto;
-    background: linear-gradient(to bottom right, rgb(203, 243, 220), rgb(50, 138, 150));
+    background: linear-gradient(to bottom right, rgb(239, 243, 203), rgb(202, 118, 69));
     padding: 20px;
 }
 
@@ -25,8 +25,7 @@ section {
 .flex {
     display: flex;
     flex-flow: row;
-    align-items: flex-start;
-             
+    align-items: flex-start;     
 } 
 
 .general-flex {
@@ -43,29 +42,24 @@ section {
 
 .general-info {
     display: inline-block;
-    background: linear-gradient(to top left, rgb(203, 243, 220), rgb(50, 138, 150));
-    border: 3px solid rgb(13, 97, 86);
-    border-radius: 2%;
+    background: linear-gradient(to top left, rgb(239, 243, 203), rgb(209, 148, 113));
+    border: 3px solid rgb(209, 148, 113);
+    border-radius: 10px;
 }
 
 
 .motivation, .skills, .education, .english {
     display: inline-block;
-    border: 3px solid rgb(13, 97, 86);
-    border-radius: 2%;
+    border: 3px solid rgb(209, 148, 113);
+    border-radius: 10px;
 }
 
-h1 {   
-    
+h1 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 70px;
     color: rgb(5, 76, 104);
     line-height: 70px;
-}
-
-.bor {
-    border: solid 1px red;
 }
 
 .flex-item div {
@@ -75,6 +69,7 @@ h1 {
 
 .social {
     display: inline-block;
+    
 }
 
 .icon {
@@ -83,25 +78,17 @@ h1 {
     border: 1px solid rgb(148, 183, 230);
     background-color: rgb(60, 127, 172);
     border-radius: 25%;
-
 }
 
 
 a {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(6, 98, 134);
+    color: rgb(5, 76, 104);
     text-decoration:none;
     font-weight: bold;
 }
 
-.border {
-    border: 2px dotted rgb(6, 98, 134); 
-    border-radius: 10px;
-   } 
-
-
 .photo {
-    
     text-align: center;
 }
 
@@ -109,8 +96,8 @@ a {
     display: inline-block;
     text-align: center;
     width: 250px; 
-    border-radius: 30%;
-    border: 5px solid rgb(6, 98, 134);
+    border-radius: 30px;
+    border: 5px solid rgb(209, 148, 113);
 }
 
 .motivation p, .skills p {
@@ -128,11 +115,9 @@ h2 {
     color: rgb(5, 76, 104);
     line-height: 50px;
     text-align:  center;
-
 }
 
 .contacts {
-    
     margin: 30px;
 }
 
@@ -148,7 +133,6 @@ ul, ol {
     margin-left: 15px;
 }
 
-  
 li {
     line-height: 30px;
     margin-top: 5px; 
